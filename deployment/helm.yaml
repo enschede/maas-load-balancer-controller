@@ -17,7 +17,7 @@ metadata:
 spec:
   chart:
     spec:
-      chart: eks/aws-load-balancer-controller
+      chart: aws-load-balancer-controller
       sourceRef:
         kind: HelmRepository
         name: aws-load-balancer-controller
